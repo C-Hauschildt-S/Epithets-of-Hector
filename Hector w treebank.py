@@ -332,23 +332,31 @@ def morph_field(m: Dict[str, str], k: str) -> str:
 
 # ===== EPITHET CLUSTER ASSIGNMENT =====
 def assign_clusters(rows):
-    """Assign cluster IDs to epithets that co-occur in the same sentence."""
+    """Assign cluster IDs to epithets that share sentence AND case."""
     from collections import defaultdict
+    # Group by (sentence, case)
     groups = defaultdict(list)
     for i, r in enumerate(rows):
-        groups[r["_sent_id"]].append(i)
+        case = (r.get("Case") or "").strip()
+        if case:
+            groups[(r["_sent_id"], case)].append(i)
 
     cluster_id = 0
-    for sent_id, indices in groups.items():
+    clustered = set()
+    for (sent_id, case), indices in groups.items():
         if len(indices) >= 2:
             cluster_id += 1
-            # Use first row's Book.Line as label
             first = rows[indices[0]]
             tag = f"{first['Book']}.{first['Line']}_C{cluster_id}"
             for idx in indices:
                 rows[idx]["EpithetCluster"] = tag
-        else:
-            rows[indices[0]]["EpithetCluster"] = ""
+                clustered.add(idx)
+
+    # Ensure all non-clustered rows get empty string
+    for i, r in enumerate(rows):
+        if i not in clustered:
+            r["EpithetCluster"] = ""
+
     # Remove internal field
     for r in rows:
         del r["_sent_id"]
