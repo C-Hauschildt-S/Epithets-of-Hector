@@ -1,0 +1,1133 @@
+Book,Line,Token,Lemma,POS,Morph,FilterReason
+10,48,τοσσάδε,τοσόσδε,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+10,48,μέρμεῤ,μέρμερος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+10,48,ἤματι,ἦμαρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+10,48,μητίσασθαι,μητίομαι,VERB,"{'pos': 'VERB', 'tense': 'Aor', 'mood': 'Inf', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+10,49,ὅσσ̓,ὅσος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+10,49,ἔρρεξε,ῥέζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+10,49,Διῒ,Ζεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+10,49,υἷας,υἱός,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+10,49,Ἀχαιῶν,ἀχαιός,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+10,50,αὔτως,αὔτως,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+10,200,ὅθεν,ὅθεν,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+10,200,αὖτις,αὖθις,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+10,200,ἀπετράπετ̓,ἀποτρέπω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+10,201,Ἀργείους,Ἀργεῖος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+10,201,ὅτε,ὅτε,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+10,201,περὶ,περί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+10,201,νὺξ,νύξ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Nom'}",POS_not_ADJ_or_Part
+10,299,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+10,299,Τρῶας,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+10,299,ἀγήνορας,ἀγήνωρ,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+10,299,εἴασεν,ἐάω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+10,300,εὕδειν,εὕδω,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+10,300,ἀλλ̓,ἀλλά,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+10,300,ἄμυδις,ἄμυδις,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+10,300,κικλήσκετο,κικλήσκω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+10,300,πάντας,πᾶς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+10,300,ἀρίστους,ἄριστος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+10,388,προέηκε,προίημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+10,388,διασκοπιᾶσθαι,διασκοπιάομαι,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+10,388,ἕκαστα,ἕκαστος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+10,389,νῆας,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+10,389,ἔπι,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+10,389,γλαφυράς,γλαφυρός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'})"
+10,391,πολλῇσίν,πολύς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'})"
+10,391,ἄτῃσι,ἄτη,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+10,391,παρὲκ,παρέξ,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+10,391,νόον,νόος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+10,391,ἤγαγεν,ἄγω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+10,392,μοι,ἐγώ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+10,392,Πηλεΐωνος,Πηλείων,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+10,392,ἀγαυοῦ,ἀγαυός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'})"
+10,392,μώνυχας,μω~νυξ,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+10,392,ἵππους,ἵππος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+10,414,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+10,414,μετὰ,μετά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+10,414,τοῖσιν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+10,414,ὅσοι,ὅσος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+10,414,βουληφόροι,βουληφόρος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+10,414,εἰσί,εἰμί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+10,562,τόν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+10,562,διοπτῆρα,διοπτήρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+10,562,στρατοῦ,στρατόω,VERB,"{'pos': 'VERB', 'person': '2', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Imp', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+10,562,ἔμμεναι,εἰμί,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+10,562,ἡμετέροιο,ἡμέτερος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'})"
+10,563,προέηκε,προίημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+10,563,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+10,563,ἄλλοι,ἄλλος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+10,563,Τρῶες,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+10,563,ἀγαυοί,ἀγαυός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+11,61,πρώτοισι,πρῶτος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'})"
+11,61,φέῤ,φέρω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,61,ἀσπίδα,ἀσπίς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,61,πάντοσ̓,πάντοσε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+11,61,ἐΐσην,ἴσος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'})"
+11,63,αὖτις,αὖθις,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+11,63,ἔδυ,δύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,63,νέφεα,νέφος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,63,σκιόεντα,σκιόεις,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+11,64,ὁτὲ,ὅτε,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+11,64,μέν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+11,64,μετὰ,μετά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+11,64,πρώτοισι,πρῶτος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'})"
+11,64,φάνεσκεν,φαίνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,210,εἰποῦσ̓,εἶπον,VERB,"{'pos': 'VERB', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Fem', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Fem', 'case': 'Nom'})"
+11,210,ἀπέβη,ἀποβαίνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,210,πόδας,πούς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,210,ὠκέα,ὠκύς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Nom'})"
+11,210,Ἶρις,Ἶρις,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Nom'}",POS_not_ADJ_or_Part
+11,211,ὀχέων,ὄχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Gen'}",POS_not_ADJ_or_Part
+11,211,σὺν,σύν,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+11,211,τεύχεσιν,τεῦχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+11,211,ἆλτο,ἅλλομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+11,211,χαμᾶζε,χαμᾶζε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+11,284,ἐνόησ̓,νοέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,284,Ἀγαμέμνονα,Ἀγαμέμνων,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,284,νόσφι,νόσφι,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+11,284,κιόντα,κίω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'})"
+11,285,Τρωσί,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+11,294,Ἀχαιοῖσιν,Ἀχαιός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'})"
+11,294,σεῦε,σεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,294,Τρῶας,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,294,μεγαθύμους,μεγάθυμος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+11,295,Πριαμίδης,Πριαμίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+11,295,βροτολοιγῷ,βροτολοιγός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+11,295,Ἄρηϊ,Ἄρης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+11,299,τίνα,τις,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,299,πρῶτον,πρῶτος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+11,299,τίνα,τις,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,299,ὕστατον,ὕστερος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+11,299,ἐξενάριξεν,ἐξεναρίζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,300,Πριαμίδης,Πριαμίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+11,300,ὅτε,ὅτε,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+11,300,Ζεὺς,Ζεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+11,300,κῦδος,κῦδος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,300,ἔδωκεν,δίδωμι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,314,ἔλεγχος,ἔλεγχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+11,315,ἔσσεται,εἰμί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Futperf', 'mood': 'Ind'}",POS_not_ADJ_or_Part
+11,315,κεν,ἄν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+11,315,νῆας,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,315,ἕλῃ,αἱρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Sub', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,343,ὀξὺ,ὀξύς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+11,343,νόησε,νοέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,343,κατὰ,κατά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+11,343,στίχας,στίξ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,343,ὦρτο,ὄρνυμι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+11,347,νῶϊν,ἐγώ,PRON,"{'pos': 'PRON', 'number': 'Dual', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+11,347,τόδε,ὅδε,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}",POS_not_ADJ_or_Part
+11,347,πῆμα,πῆμα,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}",POS_not_ADJ_or_Part
+11,347,κυλίνδεται,κυλίνδω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+11,354,ἀπέλεθρον,ἀπέλεθρος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+11,354,ἀνέδραμε,ἀνατρέχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,354,μίκτο,μίγνυμι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Pass'}",POS_not_ADJ_or_Part
+11,358,προμάχων,πρόμαχος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'})"
+11,358,ὅθι,ὅθι,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+11,358,καταείσατο,καθίζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+11,358,γαίης,γαῖα,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+11,359,τόφῤ,τόφρα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+11,359,ἔμπνυτο,ἐμπνέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+11,359,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+11,359,δίφρον,δίφρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+11,498,πεύθετ̓,πεύθομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+11,498,ἐπεί,ἐπεί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+11,498,μάχης,μάχη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+11,498,ἀριστερὰ,ἀριστερός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+11,502,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+11,502,μετὰ,μετά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+11,502,τοῖσιν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+11,502,ὁμίλει,ὁμιλέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+11,502,μέρμερα,μέρμερος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+11,503,ἔγχεΐ,ἔγχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+12,10,ὄφρα,ὄφρα,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+12,10,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+12,10,ἔην,εἰμί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+12,10,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+12,10,μήνἰ,μηνίω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+12,10,Ἀχιλλεὺς,Ἀχιλλεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+12,11,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+12,11,Πριάμοιο,Πρίαμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+12,49,ὅμιλον,ὅμιλος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,49,ἐλλίσσεθ̓,λίσσομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+12,49,ἑταίρους,ἑταῖρος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,50,τάφρον,τάφρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,91,ὄχεσφιν,ὄχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+12,92,ἄλλον,ἄλλος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+12,92,Κεβριόναο,Κεβριόνης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+12,92,χερείονα,χερείων,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc', 'degree': 'Comp'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc', 'degree': 'Comp'})"
+12,92,κάλλιπεν,καταλείπω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+12,230,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,230,ὑπόδρα,ὑπόδρα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+12,230,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+12,290,τότε,τότε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+12,290,Τρῶες,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+12,290,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+12,291,τείχεος,τεῖχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Gen'}",POS_not_ADJ_or_Part
+12,291,ἐρρήξαντο,ῥήγνυμι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+12,291,πύλας,πύλη,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,291,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+12,291,μακρὸν,μακρός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+12,291,ὀχῆα,ὀχεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,443,ἔπειτα,ἔπειτα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+12,444,κροσσάων,κρόσσαι,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+12,444,ἐπέβαινον,ἐπιβαίνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+12,444,ἀκαχμένα,ἀκαχμένος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+12,444,δούρατ̓,δόρυ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,444,ἔχοντες,ἔχω,VERB,"{'pos': 'VERB', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Nom'})"
+12,445,λᾶαν,λᾶας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,445,φέρεν,φέρω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+12,452,ὀλίγον,ὀλίγος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'})"
+12,452,μιν,μιν,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,452,ἄχθος,ἄχθος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}",POS_not_ADJ_or_Part
+12,452,ἐπείγει,ἐπείγω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+12,453,ἰθὺς,,,{},POS_not_ADJ_or_Part
+12,453,σανίδων,σανίς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+12,453,φέρε,φέρω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+12,453,λᾶαν,λᾶας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+12,462,ἔσθορε,εἰσθρῴσκω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+12,463,νυκτὶ,νύξ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+12,463,θοῇ,θοός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'})"
+12,463,ὑπώπια,ὑπώπιον,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+13,53,λυσσώδης,λυσσώδης,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+13,53,φλογὶ,φλόξ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+13,53,ἡγεμονεύει,ἡγεμονεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+13,54,Διὸς,Ζεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+13,54,εὔχετ̓,εὔχομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+13,54,ἐρισθενέος,ἐρισθενής,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'})"
+13,54,πάϊς,παῖς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+13,54,εἶναι,εἰμί,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+13,123,παρὰ,παρά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+13,123,νηυσὶ,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+13,123,βοὴν,βοή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+13,123,πολεμίζει,πολεμίζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+13,136,προὔτυψαν,προτύπτω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+13,136,ἀολλέες,ἀολλής,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+13,136,ἦρχε,ἄρχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+13,137,ἀντικρὺ,ἀντικρύ,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+13,137,ὀλοοίτροχος,ὀλοοίτροχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+13,137,ἀπὸ,ἀπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+13,137,πέτρης,πέτρα,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+13,143,εἷος,εἷος,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+13,143,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+13,143,ἀπείλει,ἀπειλέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+13,143,μέχρι,μέχρι,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+13,143,θαλάσσης,θάλασσα,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+13,144,ῥέα,ῥέα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+13,144,διελεύσεσθαι,διέρχομαι,VERB,"{'pos': 'VERB', 'tense': 'Futperf', 'mood': 'Inf', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+13,183,ὁρμηθέντος,ὁρμάω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Pass', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Pass', 'gender': 'Masc', 'case': 'Gen'})"
+13,183,ἀκόντισε,ἀκοντίζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+13,183,δουρὶ,δόρυ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+13,183,φαεινῷ,φαεινός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'})"
+13,188,ὁρμήθη,ὁρμέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Pass'}",POS_not_ADJ_or_Part
+13,188,κόρυθα,κόρυς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+13,188,κροτάφοις,κρόταφος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+13,188,ἀραρυῖαν,ἀραρίσκω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Act', 'gender': 'Fem', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Act', 'gender': 'Fem', 'case': 'Acc'})"
+13,189,κρατὸς,κράς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+13,189,ἀφαρπάξαι,ἀφαρπάζω,VERB,"{'pos': 'VERB', 'tense': 'Aor', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+13,674,ἐπέπυστο,πυνθάνομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Plup', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+13,674,Διῒ,Ζεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+13,802,ἡγεῖτο,ἡγέομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+13,802,βροτολοιγῷ,βροτολοιγός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+13,802,Ἄρηϊ,Ἄρης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+13,803,Πριαμίδης,Πριαμίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+13,823,ἀμείβετο,ἀμείβω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+14,44,δείδω,δείδω,VERB,"{'pos': 'VERB', 'person': '1', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+14,44,μοι,ἐγώ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+14,44,τελέσῃ,τελέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Sub', 'voice': 'Act'}",POS_not_ADJ_or_Part
+14,44,ἔπος,ἔπος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+14,45,ποτ̓,ποτέ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+14,45,ἐπηπείλησεν,ἐπαπειλέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+14,45,ἐνὶ,ἐν,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+14,45,Τρώεσσ̓,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+14,388,Τρῶας,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+14,388,αὖθ̓,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+14,388,ἑτέρωθεν,ἑτέρωθεν,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+14,388,ἐκόσμει,κοσμέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+14,389,ἔριδα,ἔρις,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+14,389,πτολέμοιο,πόλεμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+14,389,τάνυσσαν,τανύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+14,390,Ποσειδάων,Ποσειδεών,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+14,390,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+14,391,ἤτοι,ἤτοι,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+14,391,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+14,391,Τρώεσσιν,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+14,402,Αἴαντος,Αἴας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+14,402,ἀκόντισε,ἀκοντίζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+14,403,ἔγχει,ἔγχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+14,403,ἐπεὶ,ἐπεί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+14,403,τέτραπτο,τρέπω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Plup', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+14,403,πρὸς,πρός,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+14,403,ἰθύ,ἰθύς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+14,406,χώσατο,χώομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+14,407,ὅττί,ὅτι,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+14,407,βέλος,βέλος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}",POS_not_ADJ_or_Part
+14,407,ὠκὺ,ὠκύς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'})"
+14,407,ἐτώσιον,ἐτώσιος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'})"
+15,65,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,65,κτενεῖ,κτείνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Futperf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,65,ἔγχεϊ,ἔγχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,66,Ἰλίου,Ἴλιος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,66,προπάροιθε,προπάροιθε,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+15,66,πολέας,πολύς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+15,66,ὀλέσαντ̓,ὄλλυμι,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'})"
+15,66,αἰζηοὺς,αἰζηός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+15,67,τοὺς,ὁ,DET,"{'pos': 'DET', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,67,ἄλλους,ἄλλος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+15,231,σοὶ,σύ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,231,αὐτῷ,αὐτός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+15,231,μελέτω,μέλω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Imp', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,231,ἑκατηβόλε,ἑκατηβόλος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Voc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Voc'})"
+15,246,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,246,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,269,λαιψηρὰ,λαιψηρός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+15,269,πόδας,πούς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,269,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+15,269,γούνατ̓,γόνυ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,269,ἐνώμα,νωμάω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,270,ἱππῆας,ἱππεύς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,287,οἷον,οἷος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+15,287,αὖτ̓,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+15,287,ἐξαῦτις,ἐξαῦτις,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+15,287,ἀνέστη,ἀνίστημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,287,κῆρας,κήρ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,306,προὔτυψαν,προτύπτω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,306,ἀολλέες,ἀολλής,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+15,306,ἦρχε,ἄρχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,307,μακρὰ,μακρός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+15,329,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+15,329,Στιχίον,Στιχίος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,329,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+15,329,Ἀρκεσίλαον,Ἀρκεσίλαος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,329,ἔπεφνε,θείνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,346,Τρώεσσιν,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,346,ἐκέκλετο,κέλομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+15,346,μακρὸν,μακρός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+15,347,νηυσὶν,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,347,ἐπισσεύεσθαι,ἐπισεύω,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+15,414,ἀμφ̓,ἀμφί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+15,414,ἄλλῃσι,ἄλλος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'})"
+15,414,μάχην,μάχη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,414,ἐμάχοντο,μάχομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+15,414,νέεσσιν,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,415,ἄντ̓,ἄντα,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+15,415,Αἴαντος,Αἴας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,415,ἐείσατο,εἶμι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+15,415,κυδαλίμοιο,κυδάλιμος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'})"
+15,422,ἐνόησεν,νοέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,422,ἀνεψιὸν,ἀνεψιός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,422,ὀφθαλμοῖσιν,ὀφθαλμός,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,423,κονίῃσι,κονία,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,440,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,440,ἀπέκτανε,ἀποκτείνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,484,εἶδεν,εἶδον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,484,Τεύκρου,Τεῦκρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,484,βλαφθέντα,βλάπτω,VERB,"{'pos': 'VERB', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Pass', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Pass', 'gender': 'Neut', 'case': 'Acc'})"
+15,484,βέλεμνα,βέλεμνον,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,504,ἔλπεσθ̓,ἔλπω,VERB,"{'pos': 'VERB', 'person': '2', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+15,504,νῆας,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,504,ἕλῃ,αἱρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Sub', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,505,ἐμβαδὸν,ἐμβαδόν,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+15,505,ἵξεσθαι,ἱκνέομαι,VERB,"{'pos': 'VERB', 'tense': 'Futperf', 'mood': 'Inf', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+15,505,πατρίδα,πατρίς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'})"
+15,505,γαῖαν,γαῖα,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,515,ἔνθ̓,ἔνθα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+15,515,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+15,515,ἕλε,αἱρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,515,Σχεδίον,Σχεδίος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,515,Περιμήδεος,Περιμήδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,515,υἱὸν,υἱός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,516,ἀρχὸν,ἀρχός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,516,Φωκήων,Φωκεύς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,545,κασιγνήτοισι,κασίγνητος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,545,κέλευσε,κελεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,546,πᾶσι,πᾶς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'})"
+15,546,πρῶτον,πρῶτος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+15,552,τόν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,552,ἐνένιπεν,ἐνίπτω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,552,ἔπος,ἔπος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,552,ἔφατ̓,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+15,552,ὀνόμαζεν,ὀνομάζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,589,Νεστορίδης,Νεστορίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+15,589,ἐπὶ,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+15,589,Τρῶές,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+15,589,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+15,590,ἠχῇ,ἠχή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,590,θεσπεσίῃ,θεσπέσιος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'})"
+15,590,βέλεα,βέλος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+15,590,στονόεντα,στονόεις,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+15,590,χέοντο,χέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+15,649,ὀξὺ,ὀξύς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+15,649,νόησε,νοέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,688,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+15,689,μίμνεν,μίμνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,689,ἐνὶ,ἐν,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+15,689,Τρώων,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,689,ὁμάδῳ,ὅμαδος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+15,689,πύκα,πύκα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+15,689,θωρηκτάων,θωρηκτής,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'})"
+15,692,γεράνων,γέρανος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,692,κύκνων,κύκνος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,692,δουλιχοδείρων,δολιχόδειρος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'})"
+15,693,ἴθυσε,ἰθύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,693,νεὸς,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,693,κυανοπρῴροιο,κυανόπρῳρος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'})"
+15,704,πρυμνῆς,πρυμνός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'})"
+15,704,νεὸς,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+15,704,ἥψατο,ἅπτω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+15,704,ποντοπόροιο,ποντοπόρος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'})"
+15,705,καλῆς,καλός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'})"
+15,705,ὠκυάλου,ὠκύαλος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'})"
+15,716,πρύμνηθεν,πρύμνηθεν,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+15,716,ἐπεὶ,ἐπεί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+15,716,λάβεν,λαμβάνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,716,οὐχὶ,οὐ,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+15,716,μεθίει,μεθίημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+15,717,ἄφλαστον,ἄφλαστον,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,114,Αἴαντος,Αἴας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+16,114,δόρυ,δόρυ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,114,μείλινον,μέλινος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+16,114,ἄγχι,ἄγχι,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,115,πλῆξ̓,πλήσσω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,115,ἄορι,ἄορ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,242,ἦτορ,ἦτορ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,242,ἐνὶ,ἐν,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+16,242,φρεσίν,φρήν,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,242,ὄφρα,ὄφρα,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+16,242,καὶ,καί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,243,εἴσεται,οἶδα,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Futperf', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+16,243,καὶ,καί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,243,ἐπίστηται,ἐπίσταμαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Sub', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+16,243,πολεμίζειν,πολεμίζω,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,552,ἦρχε,ἄρχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,552,ἄρά,ἄρα,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+16,552,σφιν,σφεῖς,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,553,Σαρπηδόνος,Σαρπηδών,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+16,577,τόν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,577,τόθ̓,τότε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,577,ἁπτόμενον,ἅπτω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Mp', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Mp', 'gender': 'Masc', 'case': 'Acc'})"
+16,577,νέκυος,νέκυς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+16,577,βάλε,βάλλω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,578,χερμαδίῳ,χερμάδιον,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,578,κεφαλήν,κεφαλή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,588,χώρησαν,χωρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,588,ὑπό,ὑπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+16,588,πρόμαχοι,πρόμαχος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+16,588,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+16,648,κρατερῇ,κρατερός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'})"
+16,648,ὑσμίνῃ,ὑσμίνη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,649,αὐτοῦ,αὐτοῦ,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,649,ἀντιθέῳ,ἀντίθεος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+16,649,Σαρπηδόνι,Σαρπηδών,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,650,χαλκῷ,χαλκός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,650,δῃώσῃ,δηιόω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Sub', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,650,ἀπό,ἀπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+16,650,ὤμων,ὦμος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+16,650,τεύχἐ,τεῦχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,712,Σκαιῇσι,Σκαιαί,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,712,πύλῃς,πύλη,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,712,ἔχε,ἔχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,712,μώνυχας,μῶνυξ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,712,ἵππους,ἵππος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,726,ἀνδρῶν,ἀνήρ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+16,727,Κεβριόνῃ,Κεβριόνης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,727,ἐκέλευσε,κελεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,727,δαΐφρονι,δαίφρων,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+16,728,ἵππους,ἵππος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,728,πόλεμον,πόλεμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,728,πεπληγέμεν,πλήσσω,VERB,"{'pos': 'VERB', 'tense': 'Perf', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,731,ἄλλους,ἄλλος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+16,731,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+16,731,Δαναοὺς,Δαναοί,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,755,αὖθ̓,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,755,ἑτέρωθεν,ἑτέρωθεν,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,755,ἵππων,ἵππος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+16,755,ἆλτο,ἅλλομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+16,755,χαμᾶζε,χαμᾶζε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,759,μήστωρες,μήστωρ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+16,759,ἀϋτῆς,ἀυτή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+16,760,Πάτροκλός,Πάτροκλος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+16,760,Μενοιτιάδης,Μενοιτιάδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+16,760,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+16,761,ἵεντ̓,ἵημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+16,761,ἀλλήλων,ἀλλήλων,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'})"
+16,761,ταμέειν,τέμνω,VERB,"{'pos': 'VERB', 'tense': 'Aor', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,761,χρόα,χρώς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,761,νηλέϊ,νηλής,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+16,761,χαλκῷ,χαλκός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,762,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+16,762,κεφαλῆφιν,κεφαλή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+16,762,ἐπεὶ,ἐπεί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+16,762,λάβεν,λαμβάνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,762,οὐχὶ,οὐ,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,762,μεθίει,μεθίημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,818,εἶδεν,εἶδον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,818,Πατροκλῆα,πάτροκλος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,818,μεγάθυμον,μεγάθυμος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+16,819,ἀναχαζόμενον,ἀναχάζω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Mp', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Mp', 'gender': 'Masc', 'case': 'Acc'})"
+16,827,πολέας,πολύς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+16,827,πεφνόντα,θείνω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'})"
+16,827,Μενοιτίου,Μενοίτιος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+16,827,ἄλκιμον,ἄλκιμος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+16,827,υἱὸν,υἱός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,828,Πριαμίδης,Πριαμίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+16,828,σχεδὸν,σχεδόν,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,828,ἔγχεϊ,ἔγχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+16,828,θυμὸν,θυμός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,828,ἀπηύρα,ἀπαυράω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+16,829,καί,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+16,858,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+16,858,καὶ,καί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+16,858,τεθνηῶτα,θνήσκω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'})"
+16,858,προσηύδα,προσαυδάω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,96,Τρῶας,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,96,ἐνθάδε,ἐνθάδε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,96,πάντας,πᾶς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+17,96,ἄγει,ἄγω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,107,ἦρχε,ἄρχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,122,ἀτὰρ,ἀτάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+17,122,τεύχἐ,τεῦχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,122,ἔχει,ἔχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,125,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+17,125,Πάτροκλον,Πάτροκλος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,125,ἐπεὶ,ἐπεί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+17,125,κλυτὰ,κλυτός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+17,125,τεύχἐ,τεῦχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,125,ἀπηύρα,ἀπαυράω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,129,ὅμιλον,ὅμιλος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,129,ἀνεχάζεθ̓,ἀναχάζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+17,129,ἑταίρων,ἑταῖρος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,169,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,169,ὑπόδρα,ὑπόδρα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,169,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,188,ἄρα,ἄρα,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+17,188,ἀπέβη,ἀποβαίνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,189,δηΐου,δάιος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'})"
+17,189,πολέμοιο,πόλεμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,243,ἐπεὶ,ἐπεί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+17,243,πολέμοιο,πόλεμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,243,νέφος,νέφος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,243,περὶ,περί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+17,243,πάντα,πᾶς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+17,243,καλύπτει,καλύπτω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,244,ἡμῖν,ἐγώ,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+17,244,αὖτ̓,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,244,ἀναφαίνεται,ἀναφαίνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+17,244,ὄλεθρος,ὄλεθρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,262,ἦρχε,ἄρχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,304,αὖτ̓,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,304,Αἴαντος,Αἴας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,304,ἀκόντισε,ἀκοντίζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,304,δουρὶ,δόρυ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+17,304,φαεινῷ,φαεινός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'})"
+17,316,χώρησαν,χωρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,316,ὑπό,ὑπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+17,316,πρόμαχοι,πρόμαχος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+17,316,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+17,448,μὰν,μήν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+17,448,ὑμῖν,σύ,PRON,"{'pos': 'PRON', 'number': 'Plur', 'case': 'Dat'}",POS_not_ADJ_or_Part
+17,448,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+17,448,ἅρμασι,ἅρμα,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+17,448,δαιδαλέοισιν,δαιδάλεος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'})"
+17,449,Πριαμίδης,Πριαμίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,449,ἐποχήσεται,ἐποχέομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Futperf', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+17,472,ἀτάρ,ἀτάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+17,472,τοι,σύ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+17,472,ἑταῖρος,ἑταῖρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,472,ἀπέκτατο,ἀποκτείνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+17,472,τεύχεα,τεῦχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,473,ὤμοισιν,ὦμος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+17,473,ἀγάλλεται,ἀγάλλω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+17,473,Αἰακίδαο,Αἰακίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,483,νόησε,νοέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,484,αὐτίκα,αὐτίκα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,484,Αἰνείαν,Αἰνείας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,484,προσεφώνεεν,προσφωνέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,484,ἐγγὺς,ἐγγύς,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,484,ἐόντα,εἰμί,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'})"
+17,512,τῇδε,τῇδε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,512,γὰρ,γάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+17,512,ἔβρισαν,βρίθω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,512,πόλεμον,πόλεμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,512,κάτα,κατά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+17,512,δακρυόεντα,δακρυόεις,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+17,513,Αἰνείας,Αἰνείας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,513,Τρώων,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,513,εἰσὶν,εἰμί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,513,ἄριστοι,ἄριστος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom', 'degree': 'Sup'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom', 'degree': 'Sup'})"
+17,525,Αὐτομέδοντος,Αὐτομέδων,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,525,ἀκόντισε,ἀκοντίζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,525,δουρὶ,δόρυ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+17,525,φαεινῷ,φαεινός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'})"
+17,533,τοὺς,ὁ,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,533,ὑποταρβήσαντες,ὑποταρβέω,VERB,"{'pos': 'VERB', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Nom'})"
+17,533,ἐχώρησαν,χωρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,533,πάλιν,πάλιν,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,533,αὖτις,αὖθις,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,534,Αἰνείας,Αἰνείας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,534,ἠδὲ,ἠδέ,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+17,534,Χρομίος,Χρομίος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,535,Ἄρητον,Ἄρητος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,565,ἀλλ̓,ἀλλά,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,565,πυρὸς,πῦρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,565,αἰνὸν,αἰνός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+17,565,ἔχει,ἔχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,565,μένος,μένος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,576,μάλιστα,μάλα,ADV,"{'pos': 'ADV', 'degree': 'Sup'}",POS_not_ADJ_or_Part
+17,576,μιν,μιν,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,576,τίεν,τίω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,577,δήμου,δῆμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,577,ἐπεί,ἐπεί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+17,577,ἑταῖρος,ἑταῖρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,577,ἔην,εἰμί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,601,Λήϊτον,Λήιτος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,601,αὖθ̓,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,601,σχεδὸν,σχεδόν,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+17,601,οὔτασε,οὐτάζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,601,χεῖῤ,χείρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,601,ἐπὶ,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+17,601,καρπῷ,καρπός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+17,602,υἱὸν,υἱός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,602,Ἀλεκτρυόνος,Ἀλεκτρυών,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+17,693,ἀτὰρ,ἀτάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+17,693,τεύχἐ,τεῦχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+17,693,ἔχει,ἔχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+17,753,τοῖσι,ὁ,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+17,753,μάλιστα,μάλα,ADV,"{'pos': 'ADV', 'degree': 'Sup'}",POS_not_ADJ_or_Part
+17,754,Αἰνείας,Αἰνείας,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,754,Ἀγχισιάδης,Ἀγχισιάδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+17,754,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+18,21,ἀτὰρ,ἀτάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+18,21,τεύχἐ,τεῦχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+18,21,ἔχει,ἔχω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,82,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+18,82,ἀπώλεσα,ἀπόλλυμι,VERB,"{'pos': 'VERB', 'person': '1', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,82,τεύχεα,τεῦχος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+18,83,ἀπέδυσε,ἀποδύνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,83,πελώρια,πελώριος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+18,83,θαῦμα,θαῦμα,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+18,83,ἰδέσθαι,εἶδον,VERB,"{'pos': 'VERB', 'tense': 'Aor', 'mood': 'Inf', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+18,84,καλά,καλός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+18,91,ἄνδρεσσι,ἀνήρ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+18,91,μετέμμεναι,μέτειμι,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,92,ἐμῷ,ἐμός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'})"
+18,92,ὑπὸ,ὑπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+18,92,δουρὶ,δόρυ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+18,92,ἀπὸ,ἀπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+18,92,θυμὸν,θυμός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+18,131,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+18,132,ὤμοισιν,ὦμος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+18,132,ἀγάλλεται,ἀγάλλω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+18,153,τόν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+18,153,κίχον,κιχάνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,153,λαός,λαός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+18,153,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+18,153,ἵπποι,ἵππος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+18,154,Πριάμοιο,Πρίαμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+18,154,πάϊς,παῖς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+18,154,φλογὶ,φλόξ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+18,154,ἀλκήν,ἀλκή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+18,155,τρὶς,τρίς,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+18,155,μέν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+18,155,μιν,μιν,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+18,155,μετόπισθε,μετόπισθε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+18,155,ποδῶν,πούς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+18,155,λάβε,λαμβάνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,156,ἑλκέμεναι,ἕλκω,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,156,μέγα,μέγας,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+18,156,Τρώεσσιν,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+18,156,ὁμόκλα,ὁμοκλέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,175,μάλιστα,μάλα,ADV,"{'pos': 'ADV', 'degree': 'Sup'}",POS_not_ADJ_or_Part
+18,176,ἑλκέμεναι,ἕλκω,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,176,μέμονεν,μέμονα,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Perf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,284,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+18,284,ὑπόδρα,ὑπόδρα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+18,284,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,310,ἀγόρεὐ,ἀγορεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,310,ἐπὶ,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+18,310,Τρῶες,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+18,310,κελάδησαν,κελαδέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+18,311,νήπιοι,νήπιος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+19,134,ἐγών,ἐγώ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+19,134,ὅτε,ὅτε,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+19,134,αὖτε,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+19,135,Ἀργείους,Ἀργεῖος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+19,135,ὀλέκεσκεν,ὀλέκω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+19,135,ἐπὶ,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+19,135,πρυμνῇσι,πρυμνός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'})"
+19,135,νέεσσιν,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+19,203,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+19,203,κέαται,κεῖμαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+19,203,δεδαϊγμένοι,δαίζω,VERB,"{'pos': 'VERB', 'number': 'Plur', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Mp', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Plur', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Mp', 'gender': 'Masc', 'case': 'Nom'})"
+19,203,οὓς,ὅς,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+19,203,ἐδάμασσεν,δαμάζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+19,204,Πριαμίδης,Πριαμίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+19,204,ὅτε,ὅτε,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+19,204,Ζεὺς,Ζεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+19,204,κῦδος,κῦδος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+19,204,ἔδωκεν,δίδωμι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+2,807,ἔφαθ̓,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+2,807,θεᾶς,θεά,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+2,807,ἔπος,ἔπος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+2,807,ἠγνοίησεν,ἀγνοέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+2,816,Τρωσὶ,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+2,816,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+2,816,ἡγεμόνευε,ἡγεμονεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+2,817,Πριαμίδης,Πριαμίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+20,364,Τρώεσσι,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+20,365,κέκλεθ̓,κέλομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+20,365,φάτο,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+20,365,ἴμεναι,εἶμι,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+20,365,ἄντ̓,ἄντα,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+20,379,ἔφαθ̓,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+20,379,αὖτις,αὖθις,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+20,379,ἐδύσετο,δύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+20,379,οὐλαμὸν,οὐλαμός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+20,379,ἀνδρῶν,ἀνήρ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+20,419,ἐνόησε,νοέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+20,419,κασίγνητον,κασίγνητος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+20,419,Πολύδωρον,Πολύδωρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+20,420,ἔντερα,ἔντερον,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+20,420,χερσὶν,χείρ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+20,430,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+20,430,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+21,5,ἤματι,ἦμαρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+21,5,προτέρῳ,πρότερος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'})"
+21,5,ὅτε,ὅτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+21,5,μαίνετο,μαίνομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+21,279,ὄφελ̓,ὀφείλω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+21,279,κτεῖναι,κτείνω,VERB,"{'pos': 'VERB', 'tense': 'Aor', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+21,279,ἐνθάδε,ἐνθάδε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+21,279,ἔτραφ̓,τρέφω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,96,ἄσβεστον,ἄσβεστος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+22,96,μένος,μένος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,96,ὑπεχώρει,ὑποχωρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,97,πύργῳ,πύργος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+22,97,ἔπι,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+22,107,ἧφι,ἑός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'})"
+22,107,βίηφι,βία,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+22,107,ὤλεσε,ὄλλυμι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,107,λαόν,λαός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,143,ἰθὺς,ἰθύς,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+22,143,πέτετο,πέτομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+22,143,τρέσε,τρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,144,τεῖχος,τεῖχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,144,ὕπο,ὑπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+22,144,Τρώων,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+22,144,λαιψηρὰ,λαιψηρός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+22,144,γούνατ̓,γόνυ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,193,λῆθε,λανθάνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,193,ποδώκεα,ποδώκης,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+22,193,Πηλεΐωνα,Πηλεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,202,πῶς,πῶς,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+22,202,κεν,ἄν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+22,202,κῆρας,κήρ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,202,ὑπεξέφυγεν,ὑπεκφεύγω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,202,θανάτοιο,θάνατος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+22,232,τὴν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,232,αὖτε,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+22,232,προσέειπε,προσεῖπον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,248,ἰόντες,εἶμι,VERB,"{'pos': 'VERB', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Nom'})"
+22,249,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,249,προσέειπε,προσεῖπον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,274,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+22,274,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+22,274,ἄντα,ἄντα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+22,274,ἠλεύατο,ἀλέομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+22,278,προσέειπεν,προσεῖπον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,278,ἀμύμονα,ἀμύμων,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+22,278,Πηλεΐωνα,Πηλεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,291,χώσατο,χώομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+22,292,ὅττί,ὅτι,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+22,292,βέλος,βέλος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}",POS_not_ADJ_or_Part
+22,292,ὠκὺ,ὠκύς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'})"
+22,292,ἐτώσιον,ἐτώσιος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'})"
+22,292,ἔκφυγε,ἐκφεύγω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,296,ἔγνω,γιγνώσκω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,296,ᾗσιν,ἑός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'})"
+22,296,ἐνὶ,ἐν,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+22,296,φρεσὶ,φρήν,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+22,296,φώνησέν,φωνέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,311,οἴμησε,οἰμάω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,311,φάσγανον,φάσγανον,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,311,ὀξύ,ὀξύς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+22,337,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,337,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,355,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,355,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,373,πόποι,πόποι,INTJ,{'pos': 'INTJ'},POS_not_ADJ_or_Part
+22,373,ἀμφαφάασθαι,ἀμφαφάω,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+22,374,ὅτε,ὅτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+22,374,νῆας,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,374,ἐνέπρησεν,ἐμπίμπρημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,374,πυρὶ,πῦρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+22,374,κηλέῳ,κήλεος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'})"
+22,470,Ἀφροδίτη,Ἀφροδίτη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Nom'}",POS_not_ADJ_or_Part
+22,471,ἤματι,ἦμαρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+22,471,ὅτε,ὅτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+22,471,μιν,μιν,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+22,471,ἠγάγεθ̓,ἄγω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+22,472,δόμου,δόμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+22,472,Ἠετίωνος,Ἠετίων,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+22,472,ἐπεὶ,ἐπεί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+22,472,πόρε,πόρω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+22,472,μυρία,μυρίος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+24,33,ποθ̓,ποτέ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+24,33,ὑμῖν,σύ,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+24,34,μηρί̓,μηρία,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+24,34,ἔκηε,καίω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+24,34,βοῶν,βοῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+24,34,αἰγῶν,αἴξ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+24,34,τελείων,τέλειος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'})"
+24,58,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+24,58,γυναῖκά,γυνή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+24,58,θήσατο,θάω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+24,58,μαζόν,μαστός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+24,66,καὶ,καί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+24,67,ἔσκε,εἰμί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+24,67,θεοῖσι,θεός,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+24,67,βροτῶν,βροτός,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+24,67,Ἰλίῳ,Ἴλιος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+24,553,θρόνον,θρόνος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+24,553,ἵζε,ἵζω,VERB,"{'pos': 'VERB', 'person': '2', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Imp', 'voice': 'Act'}",POS_not_ADJ_or_Part
+24,553,διοτρεφὲς,διοτρεφής,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Voc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Voc'})"
+24,553,ὄφρά,ὄφρα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+24,553,κεν,ἄν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+24,554,κεῖται,κεῖμαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+24,554,ἐνὶ,ἐν,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+24,554,κλισίῃσιν,κλισία,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+24,554,τάχιστα,ταχύς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc', 'degree': 'Sup'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc', 'degree': 'Sup'})"
+24,736,που,πού,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+24,736,ἀδελφεὸν,ἀδελφός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+24,736,ἔκτανεν,κτείνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+24,737,πατέῤ,πατήρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+24,737,καὶ,καί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+24,737,υἱόν,υἱός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+24,737,ἐπεὶ,ἐπεί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+3,38,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+3,38,νείκεσσεν,νεικέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+3,38,αἰσχροῖς,αἰσχρός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'})"
+3,38,ἐπέεσσιν,ἔπος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+3,76,ἔφαθ̓,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+3,76,αὖτ̓,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+3,76,ἐχάρη,χαίρω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Pass'}",POS_not_ADJ_or_Part
+3,76,μέγα,μέγας,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+3,76,μῦθον,μῦθος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+3,83,στεῦται,στεῦμαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+3,83,γάρ,γάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+3,83,ἔπος,ἔπος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+3,83,ἐρέειν,ἐρῶ,VERB,"{'pos': 'VERB', 'tense': 'Futperf', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+3,85,μετ̓,μετά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+3,85,ἀμφοτέροισιν,ἀμφότερος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'})"
+3,85,ἔειπε,εἶπον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+3,116,προτὶ,πρός,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+3,116,ἄστυ,ἄστυ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+3,116,δύω,δύο,NUM,{'pos': 'NUM'},POS_not_ADJ_or_Part
+3,116,κήρυκας,κῆρυξ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+3,116,ἔπεμπε,πέμπω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+3,117,καρπαλίμως,καρπάλιμος,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+3,314,Πριάμοιο,Πρίαμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+3,314,πάϊς,παῖς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+3,314,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+3,314,Ὀδυσσεὺς,Ὀδυσσεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+3,315,χῶρον,χῶρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+3,324,ἔφαν,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+3,324,πάλλεν,πάλλω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+4,505,χώρησαν,χωρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+4,505,ὑπό,ὑπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+4,505,πρόμαχοι,πρόμαχος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+4,505,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+5,590,τοὺς,ὁ,PRON,"{'pos': 'PRON', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+5,590,ἐνόησε,νοέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+5,590,κατὰ,κατά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+5,590,στίχας,στίξ,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+5,590,ὦρτο,ὄρνυμι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+5,608,ἔνθ̓,ἔνθα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+5,608,δύο,δύο,NUM,{'pos': 'NUM'},POS_not_ADJ_or_Part
+5,608,φῶτε,φώς,NOUN,"{'pos': 'NOUN', 'number': 'Dual', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+5,608,κατέκτανεν,κατακτείνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+5,608,εἰδότε,οἶδα,VERB,"{'pos': 'VERB', 'number': 'Dual', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Dual', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'})"
+5,608,χάρμης,χάρμη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+5,609,εἰν,ἐν,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+5,609,ἑνὶ,εἷς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+5,680,ὀξὺ,ὀξύς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+5,680,νόησε,νοέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+5,689,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+5,689,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+5,690,παρήϊξεν,παραίσσω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+5,690,ὄφρα,ὄφρα,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+5,690,τάχιστα,ταχύς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+5,691,ὤσαιτ̓,ὠθέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Opt', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+5,703,ἔνθα,ἔνθα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+5,703,τίνα,τίς,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+5,703,πρῶτον,πρῶτος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+5,703,τίνα,τίς,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+5,703,ὕστατον,ὕστατος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+5,703,ἐξενάριξαν,ἐξεναρίζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+5,704,Πριάμοιο,Πρίαμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+5,704,πάϊς,παῖς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+5,704,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+5,704,Ἄρης,Ἄρης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+6,102,ἔφαθ̓,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+6,102,κασιγνήτῳ,κασίγνητος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+6,102,ἀπίθησεν,ἀπιθέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,110,Τρώεσσιν,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+6,110,ἐκέκλετο,κέλομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+6,110,μακρὸν,μακρός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+6,116,ἄρα,ἄρα,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+6,116,ἀπέβη,ἀποβαίνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,237,Σκαιάς,Σκαιαί,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,237,πύλας,πύλη,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,237,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+6,237,φηγὸν,φηγός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,263,τὴν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,263,ἠμείβετ̓,ἀμείβω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+6,263,ἔπειτα,ἔπειτα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+6,312,μέν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+6,312,εὔχοντο,εὔχομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+6,312,Διὸς,Ζεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+6,312,κούρῃ,κόρη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+6,312,μεγάλοιο,μέγας,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'})"
+6,313,πρὸς,πρός,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+6,313,δώματ̓,δῶμα,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,313,Ἀλεξάνδροιο,Ἀλέξανδρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+6,313,βεβήκει,βαίνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Plup', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,314,καλά,καλός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+6,318,ἔνθ̓,ἔνθα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+6,318,εἰσῆλθε,εἰσέρχομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,318,Διῒ,Ζεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+6,318,ἄρα,ἄρα,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+6,325,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,325,νείκεσσεν,νεικέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,325,αἰσχροῖς,αἰσχρός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'})"
+6,325,ἐπέεσσι,ἔπος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+6,342,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,342,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,359,τὴν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,359,ἠμείβετ̓,ἀμείβω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+6,359,ἔπειτα,ἔπειτα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+6,360,κάθιζ̓,καθίζω,VERB,"{'pos': 'VERB', 'person': '2', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Imp', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,360,Ἑλένη,Ἑλένη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Voc'}",POS_not_ADJ_or_Part
+6,360,φιλέουσά,φιλέω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Fem', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Fem', 'case': 'Nom'})"
+6,360,περ,πέρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+6,369,ἄρα,ἄρα,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+6,369,ἀπέβη,ἀποβαίνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,374,ἔνδον,ἔνδον,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+6,374,ἀμύμονα,ἀμύμων,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'})"
+6,374,τέτμεν,τέτμον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,374,ἄκοιτιν,ἄκοιτις,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,390,γυνὴ,γυνή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Nom'}",POS_not_ADJ_or_Part
+6,390,ταμίη,ταμία,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Nom'}",POS_not_ADJ_or_Part
+6,390,ἀπέσσυτο,ἀποσεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+6,390,δώματος,δῶμα,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Gen'}",POS_not_ADJ_or_Part
+6,391,τὴν,ὁ,DET,"{'pos': 'DET', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,391,αὐτὴν,αὐτός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'})"
+6,391,ὁδὸν,ὁδός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,391,αὖτις,αὖθις,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+6,391,ἐϋκτιμένας,ἐυκτίμενος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'})"
+6,391,κατ̓,κατά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+6,391,ἀγυιάς,ἀγυιά,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,401,ἀγαπητὸν,ἀγαπητός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+6,401,ἀλίγκιον,ἀλίγκιος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+6,401,ἀστέρι,ἀστήρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+6,401,καλῷ,καλός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+6,402,τόν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,402,καλέεσκε,καλέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,402,Σκαμάνδριον,σκαμάνδριος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+6,402,αὐτὰρ,ἀτάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+6,402,ἄλλοι,ἄλλος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'})"
+6,403,Ἀστυάνακτ̓,Ἀστυάναξ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,403,γὰρ,γάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+6,403,ἐρύετο,ῥύομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+6,403,Ἴλιον,Ἴλιος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'})"
+6,440,τὴν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,440,αὖτε,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+6,440,προσέειπε,προσεῖπον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,466,παιδὸς,παῖς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+6,466,ὀρέξατο,ὀρέγω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+6,472,αὐτίκ̓,αὐτίκα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+6,472,ἀπὸ,ἀπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+6,472,κρατὸς,κράς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+6,472,κόρυθ̓,κόρυς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,472,εἵλετο,αἱρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind'}",POS_not_ADJ_or_Part
+6,472,φαίδιμος,φαίδιμος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'})"
+6,473,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+6,473,τὴν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,473,μὲν,μέν,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+6,473,κατέθηκεν,κατατίθημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+6,473,ἐπὶ,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+6,473,χθονὶ,χθών,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+6,494,ἄρα,ἄρα,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+6,494,κόρυθ̓,κόρυς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,494,εἵλετο,αἱρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind'}",POS_not_ADJ_or_Part
+6,495,ἵππουριν,ἵππουρις,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,520,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+6,520,προσέφη,πρόσφημι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+7,1,πυλέων,πύλη,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+7,1,ἐξέσσυτο,ἐκσεύομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+7,2,Ἀλέξανδρος,Ἀλέξανδρος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+7,2,ἀδελφεός,ἀδελφός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+7,11,Ἠϊονῆα,Ἠϊονῆς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+7,11,βάλ̓,βάλλω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+7,11,ἔγχεϊ,ἔγχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+7,11,ὀξυόεντι,ὀξυόεις,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'})"
+7,12,αὐχέν̓,αὐχήν,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+7,12,ὑπὸ,ὑπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+7,54,ἔφαθ̓,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+7,54,αὖτε,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+7,54,χάρη,χαίρω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Pass'}",POS_not_ADJ_or_Part
+7,54,μέγα,μέγας,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+7,54,μῦθον,μῦθος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+7,66,μετ̓,μετά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+7,66,ἀμφοτέροισιν,ἀμφότερος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'})"
+7,66,ἔειπε,εἶπον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+7,89,κατατεθνηῶτος,καταθνήσκω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Gen'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Perf', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Gen'})"
+7,90,ποτ̓,ποτέ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+7,90,ἀριστεύοντα,ἀριστεύω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'})"
+7,90,κατέκτανε,κατακτείνω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+7,158,τάχ̓,τάχα,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+7,158,ἀντήσειε,ἀντάω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Opt', 'voice': 'Act'}",POS_not_ADJ_or_Part
+7,158,μάχης,μάχη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+7,233,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+7,233,αὖτε,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+7,233,προσέειπε,προσεῖπον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+7,263,ἀλλ̓,ἀλλά,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+7,263,ἀπέληγε,ἀπολήγω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+7,263,μάχης,μάχη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+7,264,ἀλλ̓,ἀλλά,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+7,264,λίθον,λίθος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+7,264,εἵλετο,αἱρέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind'}",POS_not_ADJ_or_Part
+7,264,χειρὶ,χείρ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+7,264,παχείῃ,παχύς,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'})"
+7,287,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+7,287,αὖτε,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+7,287,προσέειπε,προσεῖπον,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,110,Τρωσὶν,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,110,ἱπποδάμοις,ἱππόδαμος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'})"
+8,110,ἰθύνομεν,ἰθύνω,VERB,"{'pos': 'VERB', 'person': '1', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Sub', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,110,ὄφρα,ὄφρα,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+8,110,καὶ,καί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+8,111,εἴσεται,οἶδα,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Futperf', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+8,111,καὶ,καί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+8,111,ἐμὸν,ἐμός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'})"
+8,111,δόρυ,δόρυ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Nom'}",POS_not_ADJ_or_Part
+8,111,μαίνεται,μαίνομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+8,148,γάρ,γάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+8,148,ποτε,ποτέ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+8,148,φήσει,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Futperf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,148,ἐνὶ,ἐν,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,148,Τρώεσσ̓,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,153,περ,πέρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+8,153,γάρ,γάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+8,153,κακὸν,κακός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+8,153,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+8,153,ἀνάλκιδα,,,{},POS_not_ADJ_or_Part
+8,153,φήσει,φημί,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Sub', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,154,ἀλλ̓,ἀλλά,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+8,158,ἐπὶ,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,158,Τρῶές,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+8,158,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+8,159,ἠχῇ,ἠχή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,159,θεσπεσίῃ,θεσπέσιος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'})"
+8,159,βέλεα,βέλος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,159,στονόεντα,στονόεις,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+8,159,χέοντο,χέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+8,160,ἐπὶ,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,160,μακρὸν,μακρός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+8,160,ἄϋσε,αὔω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,172,Τρώεσσιν,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,172,ἐκέκλετο,κέλομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+8,172,μακρὸν,μακρός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+8,215,εἴλει,εἴλω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,215,θοῷ,θοός,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+8,215,Ἄρηϊ,Ἄρης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,216,Πριαμίδης,Πριαμίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+8,216,ὅτε,ὅτε,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+8,216,Ζεὺς,Ζεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+8,216,κῦδος,κῦδος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,216,ἔδωκε,δίδωμι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,324,τὸν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,325,αὐερύοντα,αὐερύω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'})"
+8,325,παῤ,παρά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,325,ὦμον,ὦμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,325,ὅθι,ὅθι,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+8,325,κληῒς,κλείς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Nom'}",POS_not_ADJ_or_Part
+8,325,ἀποέργει,ἀπείργω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,337,πρώτοισι,πρότερος,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Dat'})"
+8,337,κίε,κίω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,337,σθένεϊ,σθένος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,340,ἑλισσόμενόν,ἑλίσσω,VERB,"{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Mp', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Mp', 'gender': 'Masc', 'case': 'Acc'})"
+8,340,δοκεύει,δοκεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,341,ὤπαζε,ὀπάζω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,341,κάρη,κάρα,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,341,κομόωντας,κομάω,VERB,"{'pos': 'VERB', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Plur', 'tense': 'Pres', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Acc'})"
+8,341,Ἀχαιούς,Ἀχαιός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+8,342,αἰὲν,ἀεί,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+8,348,ἀμφιπεριστρώφα,ἀμφιπεριστρωφάω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,348,καλλίτριχας,καλλίθριξ,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'})"
+8,348,ἵππους,ἵππος,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,349,Γοργοῦς,Γοργώ,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+8,349,ὄμματ̓,ὄμμα,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,355,ῥιπῇ,ῥιπή,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,355,μαίνεται,μαίνομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+8,355,οὐκέτ̓,οὐκέτι,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+8,355,ἀνεκτῶς,ἀνεκτός,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+8,356,Πριαμίδης,Πριαμίδης,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+8,356,καὶ,καί,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+8,356,κακὰ,κακός,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+8,356,πολλὰ,πολύς,ADJ,"{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Plur', 'gender': 'Neut', 'case': 'Acc'})"
+8,356,ἔοργε,ἔρδω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Perf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,376,ὄφρα,ὄφρα,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+8,376,ἴδωμαι,εἶδον,VERB,"{'pos': 'VERB', 'person': '1', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Sub', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+8,377,νῶϊ,ἐγώ,PRON,"{'pos': 'PRON', 'number': 'Dual', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,377,Πριάμοιο,Πρίαμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+8,377,πάϊς,παῖς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+8,378,γηθήσει,γηθέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Futperf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,378,προφανέντε,προφαίνω,VERB,"{'pos': 'VERB', 'number': 'Dual', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Pass', 'gender': 'Fem', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Dual', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Pass', 'gender': 'Fem', 'case': 'Acc'})"
+8,378,ἀνὰ,ἀνά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,378,πτολέμοιο,πόλεμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+8,378,γεφύρας,γέφυρα,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,473,γὰρ,γάρ,DET,{'pos': 'DET'},POS_not_ADJ_or_Part
+8,473,πρὶν,πρίν,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+8,473,πολέμου,πόλεμος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Gen'}",POS_not_ADJ_or_Part
+8,473,ἀποπαύσεται,ἀποπαύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Futperf', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+8,474,πρὶν,πρίν,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+8,474,ὄρθαι,ὄρνυμι,VERB,"{'pos': 'VERB', 'tense': 'Aor', 'mood': 'Inf', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+8,474,παρὰ,παρά,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,474,ναῦφι,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,474,ποδώκεα,ποδώκης,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'})"
+8,474,Πηλεΐωνα,Πηλείων,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,489,Τρώων,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'case': 'Gen'}",POS_not_ADJ_or_Part
+8,489,αὖτ̓,αὖτε,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+8,489,ἀγορὴν,ἀγορά,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,489,ποιήσατο,ποιέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Mid'}",POS_not_ADJ_or_Part
+8,490,νόσφι,νόσφι,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,490,νεῶν,ναῦς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Gen'}",POS_not_ADJ_or_Part
+8,490,ποταμῷ,ποταμός,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,490,ἔπι,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,490,δινήεντι,δινήεις,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'})"
+8,492,ἀποβάντες,ἀποβαίνω,VERB,"{'pos': 'VERB', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Nom'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'VERB', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Part', 'voice': 'Act', 'gender': 'Masc', 'case': 'Nom'})"
+8,492,ἐπὶ,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,492,χθόνα,χθών,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,492,μῦθον,μῦθος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,492,ἄκουον,ἀκούω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,493,τόν,ὁ,PRON,"{'pos': 'PRON', 'number': 'Sing', 'gender': 'Masc', 'case': 'Acc'}",POS_not_ADJ_or_Part
+8,493,ἀγόρευε,ἀγορεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,493,Διῒ,Ζεύς,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Dat'}",POS_not_ADJ_or_Part
+8,542,ἀγόρεὐ,ἀγορεύω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+8,542,ἐπὶ,ἐπί,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+8,542,Τρῶες,Τρώς,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Masc', 'case': 'Nom'}",POS_not_ADJ_or_Part
+8,542,κελάδησαν,κελαδέω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Plur', 'tense': 'Aor', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+9,237,μέγα,μέγας,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+9,237,σθένεϊ,σθένος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Dat'}",POS_not_ADJ_or_Part
+9,238,μαίνεται,μαίνομαι,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Pres', 'mood': 'Ind', 'voice': 'Mp'}",POS_not_ADJ_or_Part
+9,238,ἐκπάγλως,ἔκπαγλος,ADV,{'pos': 'ADV'},POS_not_ADJ_or_Part
+9,352,πολέμιζον,πολεμίζω,VERB,"{'pos': 'VERB', 'person': '1', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+9,353,ἐθέλεσκε,ἐθέλω,VERB,"{'pos': 'VERB', 'person': '3', 'number': 'Sing', 'tense': 'Impf', 'mood': 'Ind', 'voice': 'Act'}",POS_not_ADJ_or_Part
+9,353,μάχην,μάχη,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+9,353,ἀπὸ,ἀπό,ADP,{'pos': 'ADP'},POS_not_ADJ_or_Part
+9,353,τείχεος,τεῖχος,NOUN,"{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Neut', 'case': 'Gen'}",POS_not_ADJ_or_Part
+9,353,ὀρνύμεν,ὄρνυμι,VERB,"{'pos': 'VERB', 'tense': 'Pres', 'mood': 'Inf', 'voice': 'Act'}",POS_not_ADJ_or_Part
+9,354,ἀλλ̓,ἀλλά,CONJ,{'pos': 'CONJ'},POS_not_ADJ_or_Part
+9,354,ὅσον,ὅσος,ADJ,"{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'}","Agreement_fail (Hektor:{'pos': 'NOUN', 'number': 'Sing', 'gender': 'Masc', 'case': 'Nom'} vs Epithet:{'pos': 'ADJ', 'number': 'Sing', 'gender': 'Neut', 'case': 'Acc'})"
+9,354,Σκαιάς,Σκαιαί,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
+9,354,πύλας,πύλη,NOUN,"{'pos': 'NOUN', 'number': 'Plur', 'gender': 'Fem', 'case': 'Acc'}",POS_not_ADJ_or_Part
