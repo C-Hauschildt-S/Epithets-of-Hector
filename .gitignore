@@ -116,7 +116,6 @@ train_philta_sentiment.py
 
 # Generated outputs
 sentiment_train.csv
-hector_morphosyntax_v2.csv
 hector_debug_filtered.csv
 hector_only_all_parameters.csv
 hector_with_corrections.csv
