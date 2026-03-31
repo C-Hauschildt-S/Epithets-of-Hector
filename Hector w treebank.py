@@ -21,6 +21,17 @@ PATR_SUFFIXES = ("ΙΔΗΣ", "ΙΑΔΗΣ", "ΪΔΗΣ", "ΪΑΔΗΣ")
 
 PARTICIPLE_BLACKLIST_FILE = r"C:\Users\carol\PycharmProjects\CLTK+DICES\participle_blacklist.csv"
 
+# False-positive Πριαμίδης references (other sons of Priam, not Hektor)
+FALSE_POSITIVE_PRIAMIDES = {
+    (13, 586),  # Helenos
+    (20, 87),   # Lykaon
+}
+
+# Periphrastic Hektor references that treebank parses as modifying another noun
+FORCE_INCLUDE_PRIAMIDES = {
+    (7, 250),   # Πριαμίδαο κατ' ἀσπίδα — Hektor's shield
+}
+
 # ===== PERSEUS POSTAG DECODER =====
 POSTAG_MAP = {
     0: {'pos': {
@@ -435,11 +446,18 @@ def main():
             if nl_hi == PRIAMIDES_NORM or n_hi == PRIAMIDES_NORM:
                 # Skip if this patronymic syntactically modifies a non-Hektor noun
                 # e.g. "Πριαμίδης Ἕλενος" at 6.76 where ATR points to Helenos
-                parent_hi = heads[hi]
-                if 0 <= parent_hi < len(tokens) and parent_hi not in hektor_set:
-                    if rels[hi] in ('ATR', 'ATV', 'ATV_CO', 'APOS') and pos_tags[parent_hi] in ('NOUN', 'PRON', 'ADJ'):
-                        continue
                 word_line = find_word_line(book, line_start, line_end, tokens[hi], hi, len(tokens), line_index)
+                # Skip if this patronymic syntactically modifies a non-Hektor noun
+                # e.g. "Πριαμίδης Ἕλενος" at 6.76 where ATR points to Helenos
+                # (but allow known periphrastic references like Πριαμίδαο κατ' ἀσπίδα)
+                if (book, word_line) not in FORCE_INCLUDE_PRIAMIDES:
+                    parent_hi = heads[hi]
+                    if 0 <= parent_hi < len(tokens) and parent_hi not in hektor_set:
+                        if rels[hi] in ('ATR', 'ATV', 'ATV_CO', 'APOS') and pos_tags[parent_hi] in ('NOUN', 'PRON', 'ADJ'):
+                            continue
+                # Skip known false positives (other Priamids)
+                if (book, word_line) in FALSE_POSITIVE_PRIAMIDES:
+                    continue
                 rows.append({
                     "_sent_id": (book, line_start),
                     "Book": book, "Line": word_line,
@@ -554,7 +572,15 @@ def main():
                 if formula_genders and all(g != h_gender for g in formula_genders):
                     continue
             used_positions.update(positions)
-            cm = morphs[positions[0]]
+            # Pick morphology from the word that agrees with Hektor,
+            # not blindly the first word (avoids Gen from Πριάμοιο, Acc from βοὴν)
+            nearest_h = min(hektor_indices, key=lambda h: min(abs(p - h) for p in positions))
+            h_morph = morphs[nearest_h]
+            cm = morphs[positions[0]]  # fallback
+            for p in positions:
+                if agree_cng(morphs[p], h_morph):
+                    cm = morphs[p]
+                    break
             info = mh["info"]
             formula_line = find_word_line(book, line_start, line_end, tokens[positions[0]], positions[0], len(tokens), line_index)
             rows.append({
