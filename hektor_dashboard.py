@@ -25,6 +25,9 @@ sel_case = st.sidebar.multiselect("Kasus", all_cases, default=all_cases)
 all_conf = sorted(df["Confidence"].unique())
 sel_conf = st.sidebar.multiselect("Confidence", all_conf, default=all_conf)
 
+all_clusters = sorted(df["EpithetCluster"].dropna().unique())
+sel_cluster = st.sidebar.multiselect("EpithetCluster", all_clusters, default=all_clusters)
+
 speakers = sorted(df["Speaker"].dropna().unique())
 sel_speaker = st.sidebar.multiselect("Speaker", speakers, default=speakers)
 
@@ -35,6 +38,7 @@ filt = df[
     & (df["POS"].isin(sel_pos))
     & (df["Case"].isin(sel_case) | df["Case"].isna())
     & (df["Confidence"].isin(sel_conf))
+    & (df["EpithetCluster"].isin(sel_cluster) | df["EpithetCluster"].isna())
     & (df["Speaker"].isin(sel_speaker) | df["Speaker"].isna())
 ]
 
@@ -85,7 +89,7 @@ with tab3:
 
 with tab4:
     st.dataframe(
-        filt[["Book", "Line", "Epithet", "Lemma", "Speaker", "Addressee",
+        filt[["Book", "Line", "Epithet", "Lemma", "EpithetCluster", "Speaker", "Addressee",
               "Case", "Number", "POS", "Confidence", "Greek"]],
         use_container_width=True,
         height=600,
