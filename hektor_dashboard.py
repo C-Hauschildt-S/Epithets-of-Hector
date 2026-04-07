@@ -54,6 +54,9 @@ tab1, tab2, tab3, tab4 = st.tabs([
 
 with tab1:
     counts = filt.groupby(["Book", "Lemma"]).size().reset_index(name="Antal")
+    totals = filt.groupby("Book").size().reset_index(name="Antal")
+    totals["Lemma"] = "I alt"
+    counts = pd.concat([counts, totals], ignore_index=True)
     fig = px.bar(
         counts, x="Book", y="Antal", color="Lemma", barmode="group",
         labels={"Book": "Sang", "Antal": "Antal forekomster"},
