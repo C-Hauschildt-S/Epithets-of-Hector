@@ -164,6 +164,7 @@ def load_whitelist(filepath: str) -> Tuple[Dict[str, dict], List[Tuple[List[str]
                 "type": (row.get("type") or "").strip(),
                 "cluster": (row.get("cluster") or "").strip(),
                 "notes": (row.get("notes") or "").strip(),
+                "display_lemma": (row.get("display_lemma") or "").strip(),
             }
             norm = normalize_greek(lemma)
             parts = norm.split()
@@ -610,7 +611,8 @@ def main():
                 "_sent_id": (book, line_start),
                 "Book": book, "Line": formula_line,
                 "Hero": "HEKTOR",
-                "Epithet": mh["text"], "Lemma": mh["lemma"],
+                "Epithet": mh["text"],
+                "Lemma": mh["info"].get("display_lemma") or mh["lemma"],
                 "Samforekomst": "",
                 "Enjambement": "ja" if formula_line != hektor_line_f else "",
                 "Speaker": speaker, "Addressee": addressee,
