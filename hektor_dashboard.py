@@ -32,15 +32,16 @@ speakers = sorted(df["Speaker"].dropna().unique())
 sel_speaker = st.sidebar.multiselect("Speaker", speakers, default=speakers)
 
 # ── Apply filters ──
-filt = df[
-    (df["Lemma"].isin(sel_lemmata))
-    & (df["Book"].between(*book_range))
+base_mask = (
+    (df["Book"].between(*book_range))
     & (df["POS"].isin(sel_pos))
     & (df["Case"].isin(sel_case) | df["Case"].isna())
     & (df["Confidence"].isin(sel_conf))
     & (df["Samforekomst"].isin(sel_cluster) | df["Samforekomst"].isna())
     & (df["Speaker"].isin(sel_speaker) | df["Speaker"].isna())
-]
+)
+filt = df[base_mask & df["Lemma"].isin(sel_lemmata)]
+filt_all_lemmata = df[base_mask]
 
 st.metric("Forekomster", len(filt))
 
@@ -54,7 +55,7 @@ tab1, tab2, tab3, tab4 = st.tabs([
 
 with tab1:
     counts = filt.groupby(["Book", "Lemma"]).size().reset_index(name="Antal")
-    totals = filt.groupby("Book").size().reset_index(name="Antal")
+    totals = filt_all_lemmata.groupby("Book").size().reset_index(name="Antal")
     totals["Lemma"] = "I alt"
     counts = pd.concat([counts, totals], ignore_index=True)
     fig = px.bar(
