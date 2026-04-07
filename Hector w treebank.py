@@ -355,13 +355,13 @@ def assign_clusters(rows):
             first = rows[indices[0]]
             tag = f"{first['Book']}.{first['Line']}_C{cluster_id}"
             for idx in indices:
-                rows[idx]["EpithetCluster"] = tag
+                rows[idx]["Samforekomst"] = tag
                 clustered.add(idx)
 
     # Ensure all non-clustered rows get empty string
     for i, r in enumerate(rows):
         if i not in clustered:
-            r["EpithetCluster"] = ""
+            r["Samforekomst"] = ""
 
     # Remove internal field
     for r in rows:
@@ -477,7 +477,8 @@ def main():
                     "Book": book, "Line": word_line,
                     "Hero": "HEKTOR",
                     "Epithet": tokens[hi], "Lemma": lemmas[hi],
-                    "EpithetCluster": "",
+                    "Samforekomst": "",
+                    "Enjambement": "",
                     "Speaker": speaker, "Addressee": addressee,
                     "Case": morph_field(morphs[hi], "case"),
                     "Number": morph_field(morphs[hi], "number"),
@@ -604,12 +605,14 @@ def main():
                     break
             info = mh["info"]
             formula_line = find_word_line(book, line_start, line_end, tokens[positions[0]], positions[0], len(tokens), line_index)
+            hektor_line_f = find_word_line(book, line_start, line_end, tokens[nearest_h], nearest_h, len(tokens), line_index)
             rows.append({
                 "_sent_id": (book, line_start),
                 "Book": book, "Line": formula_line,
                 "Hero": "HEKTOR",
                 "Epithet": mh["text"], "Lemma": mh["lemma"],
-                "EpithetCluster": "",
+                "Samforekomst": "",
+                "Enjambement": "ja" if formula_line != hektor_line_f else "",
                 "Speaker": speaker, "Addressee": addressee,
                 "Case": morph_field(cm, "case"),
                 "Number": morph_field(cm, "number"),
@@ -678,12 +681,15 @@ def main():
                 source = "auto-detected"
 
             word_line = find_word_line(book, line_start, line_end, tokens[i], i, len(tokens), line_index)
+            nearest_h_s = min(hektor_indices, key=lambda h: abs(i - h))
+            hektor_line_s = find_word_line(book, line_start, line_end, tokens[nearest_h_s], nearest_h_s, len(tokens), line_index)
             row_data = {
                 "_sent_id": (book, line_start),
                 "Book": book, "Line": word_line,
                 "Hero": "HEKTOR",
                 "Epithet": tokens[i], "Lemma": lemmas[i],
-                "EpithetCluster": "",
+                "Samforekomst": "",
+                "Enjambement": "ja" if word_line != hektor_line_s else "",
                 "Speaker": speaker, "Addressee": addressee,
                 "Case": morph_field(epithet_morph, "case"),
                 "Number": morph_field(epithet_morph, "number"),
@@ -725,7 +731,7 @@ def main():
 
     if rows:
         fieldnames = ["Book", "Line", "Hero", "Epithet", "Lemma",
-                       "EpithetCluster", "Speaker", "Addressee",
+                       "Samforekomst", "Enjambement", "Speaker", "Addressee",
                        "Case", "Number", "Gender", "Tense", "Voice", "Mood",
                        "POS", "Source", "Confidence", "Greek"]
         rows.sort(key=lambda r: (r["Book"], r["Line"]))
@@ -739,7 +745,7 @@ def main():
         for row in rows[:15]:
             src = f" [{row['Source']}]" if row['Source'] != 'whitelist' else ""
             spk = f" (Speaker: {row['Speaker']})" if row['Speaker'] else ""
-            print(f"  {row['Book']}.{row['Line']}: {row['Epithet']} ({row['Lemma']}) — {row['Case']} {row['EpithetCluster']}{src}{spk}")
+            print(f"  {row['Book']}.{row['Line']}: {row['Epithet']} ({row['Lemma']}) — {row['Case']} {row['Samforekomst']}{src}{spk}")
 
     if candidates:
         cand_fields = ["Book", "Line", "Lemma", "Form", "POS", "Case", "Number", "Gender", "Context"]
