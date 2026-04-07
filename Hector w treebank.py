@@ -32,6 +32,12 @@ FORCE_INCLUDE_PRIAMIDES = {
     (7, 250),   # Πριαμίδαο κατ' ἀσπίδα — Hektor's shield
 }
 
+# Treebank annotation errors: (book, sent_start, surface_form)
+# where modifies_other_noun incorrectly rejects a valid Hektor epithet
+FORCE_INCLUDE_EPITHETS = {
+    (8, 87, 'θρασὺν'),  # head→ἰωχμόν should be head→ἡνίοχον (appositive to Ἕκτορα)
+}
+
 # ===== PERSEUS POSTAG DECODER =====
 POSTAG_MAP = {
     0: {'pos': {
@@ -509,6 +515,13 @@ def main():
             if rels[idx] in ('ATR', 'ATV', 'ATV_CO') and parent not in hektor_set:
                 parent_pos = pos_tags[parent]
                 if parent_pos in ('NOUN', 'PRON', 'ADJ'):
+                    # Allow if parent noun is in apposition to Hektor
+                    # (shares APOS head with a Hektor token)
+                    p_head = heads[parent]
+                    if p_head >= 0 and rels[parent] in ('OBJ_AP', 'SBJ_AP', 'APOS', 'ExD', 'ExD_AP'):
+                        for hi in hektor_indices:
+                            if heads[hi] == p_head:
+                                return False
                     return True
             return False
 
@@ -628,7 +641,7 @@ def main():
             in_whitelist = nl in wl_singles or n in wl_singles
 
             # Reject if this word syntactically modifies another noun (not Hektor)
-            if modifies_other_noun(i):
+            if modifies_other_noun(i) and (book, line_start, tokens[i]) not in FORCE_INCLUDE_EPITHETS:
                 continue
 
             # Reject predicative/adverbial adjectives: these describe states, not epithets
